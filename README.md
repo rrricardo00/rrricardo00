@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rrricardo00
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning vuejs
-- 💞️ I’m looking to collaborate onweb projects
+- 🌱 I’m currently working with angular
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: rrricardo00@yahoo.com.br
 
 <!---
