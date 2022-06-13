@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rrricardo00
-- 👀 I’m interested in web development
-- 🌱 I’m currently working with angular
+- 👀 I’m Front-End Developer
+- 🌱 I’m currently working with React
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: rrricardo00@yahoo.com.br
 
